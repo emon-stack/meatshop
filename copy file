@@ -1,0 +1,413 @@
+[ {"beef" : [{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name":"Beef Shena",
+    "price": 339,
+     "imgName" : "beefshena.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name":"Beef Shoulder",
+    "price": 479,
+    "imgName" : "beefshoulder.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name":"Beef Cube",
+    "price": 559,
+    "imgName" : "beefcube.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name":"Roast Beef",
+    "price": 619,
+    "imgName" : "roastbeef.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name":"Ground Beef(lean)",
+    "price": 599,
+    "imgName" : "ground-beef-01.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name":"Ground Beef(Regular)",
+    "price": 579,
+    "imgName" : "Ground-Beef-02"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name":"Rib Eye Steak(boneless)",
+    "price": 899,
+    "imgName" : "boneless.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name":"Rib Eye Steak(bonein)",
+    "price": 799,
+    "imgName" : "bonein.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27d66807cf2bea9"
+    },
+    "name":"T Bone Steak",
+    "price": 699,
+    "imgName" : "Tbone steak.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27b66807cf2bea9"
+    },
+    "name":"New York Strip Steak",
+    "price": 799,
+    "imgName" : "newyork.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27c66807cf2bea9"
+    },
+    "name":"Sirloin Steak(boneless)",
+    "price": 899,
+    "imgName" : "sirloin01.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27e66807cf2bea9"
+    },
+    "name":"Sirloin Steak(bonein)",
+    "price": 699,
+    "imgName" : "sirloin02.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a30d66807cf2bea9"
+    },
+    "name":"Fliet Mignon Steak",
+    "price": 999,
+    "imgName" : "mignoinsteak.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6717a31d66807cf2bea9"
+    },
+    "name":"Beef Burger Patties(2)",
+    "price": 699,
+    "imgName" : "beef burger.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a32d66807cf2bea9"
+    },
+   "name":"Beef Pasanda",
+    "price": 619,
+    "imgName" : "Beef-Pasandat.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a33d66807cf2bea9"
+    },
+    "name":"Beef Nehari",
+    "price": 619,
+    "imgName" : "beef nehari.png"
+  },{
+    "_id": {
+      "$oid": "5eee6717a34d66807cf2bea9"
+    },
+    "name":"Beef Tripe",
+    "price": 399,
+    "imgName" : "beef tripe.jpg"
+  }]},{"Goat" : [{
+    "_id": {
+      "$oid": "5eee6717a35d66807cf2bea9"
+    },
+    "name":"Whole Goat",
+    "price": 1199,
+    "imgName" : "whole goat.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a36d66807cf2bea9"
+    },
+    "name":"Half Goat",
+    "price": 1279,
+    "imgName" : "Half-Goat.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a38d66807cf2bea9"
+    },
+    "name":"Goat Leg",
+    "price": 1399,
+    "imgName" : "goat-leg.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a39d66807cf2bea9"
+    },
+    "name":"Goat Shoulder",
+    "price": 1399,
+    "imgName" : "Goat_Shoulde.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6717a40d66807cf2bea9"
+    },
+    "name":"Goat Mix",
+    "price": 1399,
+    "imgName" : "mix goat.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a41d66807cf2bea9"
+    },
+    "name":"Goat Liver",
+    "price": 1199,
+    "imgName" : "goat-liver.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a42d66807cf2bea9"
+    },
+    "name":"Goat Chops",
+    "price": 1399,
+    "imgName" : "Goat-Chops.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a43d66807cf2bea9"
+    },
+    "name":"Goat Head",
+    "price": 999,
+    "imgName" : "goat head.png"
+  },{
+    "_id": {
+      "$oid": "5eee6717a44d66807cf2bea9"
+    },
+    "name":"Goat Brain",
+    "price": 799,
+    "imgName" : "goat brain.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a45d66807cf2bea9"
+    },
+    "name":"Goat Kidney",
+    "price": 1199,
+    "imgName" : "goat-kidney-meat.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a46d66807cf2bea9"
+    },
+    "name":"Goat Feat W/Skin",
+    "price": 699,
+    "imgName" : "Goat__Lamb_Feet.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6717a48d66807cf2bea9"
+    },
+    "name":"Goat Tripe",
+    "price": 799,
+    "imgName" : "goat-tripe.jpg"
+  }]},{"Lamb" : [{
+    "_id": {
+      "$oid": "5eee6717a49d66807cf2bea9"
+    },
+    "name":"Whole Lamb(Over 40 lbs)",
+    "price": 849,
+    "imgName" : "whole-lamb-1.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6717a50d66807cf2bea9"
+    },
+    "name":"Whole Lamb(under 40 lbs)",
+    "price": 899,
+    "imgName" : "whole lamb 02.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6717a53d66807cf2bea9"
+    },
+    "name":"Half Lamb",
+    "price": 949,
+    "imgName" : "HALF-LAMB.png"
+  },{
+    "_id": {
+      "$oid": "5eee6709a27d66807cf2bea9"
+    },
+    "name":"Lamb Leg",
+    "price": 999,
+    "imgName" : "lamb-leg-1.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6708a27d66807cf2bea9"
+    },
+    "name":"Lamb Mix",
+    "price": 999,
+    "imgName" : "lamb mix.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6706a27d66807cf2bea9"
+    },
+    "name":"Lamb Chop",
+    "price": 1049,
+    "imgName" : "lamb chop.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6705a27d66807cf2bea9"
+    },
+    "name":"Lamb Head",
+    "price": 999,
+    "imgName" : "lamb head.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6704a27d66807cf2bea9"
+    },
+    "name":"Lamb Brain",
+    "price": 699,
+    "imgName" : "LAMBBRAIN.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6703a27d66807cf2bea9"
+    },
+    "name":"Lamb Tripe",
+    "price": 599,
+    "imgName" : "lamb tripe.jpg"
+  }]},{"veal" : [{
+    "_id": {
+      "$oid": "5eee6702a27d66807cf2bea9"
+    },
+    "name":"Whole Veal",
+    "price": 499,
+    "imgName" : "whole veal.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6721a27d66807cf2bea9"
+    },
+    "name":"Half Veal",
+    "price": 549,
+    "imgName" : "Half veal.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6722a27d66807cf2bea9"
+    },
+    "name":"Veal Mixed",
+    "price": 699,
+    "imgName" : "veal mixed.jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6723a27d66807cf2bea9"
+    },
+    "name":"Veal Boneless",
+    "price": 899,
+    "imgName" : "veal boneless(1).jpg"
+  },{
+    "_id": {
+      "$oid": "5eee6724a27d66807cf2bea9"
+    },
+    "name":"Veal Shoulder",
+    "price": 699,
+    "imgName" : "veal shoulder.webp"
+  },{
+    "_id": {
+      "$oid": "5eee6725a27d66807cf2bea9"
+    },
+    "name":"Veal Steak",
+    "price": 999,
+    "imgName" : "veal steak.jpg"
+  }]}
+]
+
+
+
+
+//what should be correct in home.ejs:
+
+<script src="js/app.js/resources_js_app_js.js"></script>
+      
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+    </body>
+    </html>
+
+
+
+//just trying a solution
+
+
+
+//check if item doesnot exist in cart
+          if (!cart.items[req.body._id]){
+            cart.items[req.body._id] = {
+              item: req.body,
+              qty: 1
+            }
+            cart.totalQty = cart.totalQty + 1;
+            cart.totalPrice = cart.totalPrice + req.body.price
+
+           }else {
+             cart.items[req.body._id].qty = cart.items[req.body._id].qty + 1
+             cart.totalQty = cart.totalQty +1
+             cart.totalPrice = cart.totalPrice + req.body.price
+           }
+          
+        
+          return res.json({totalQty: req.session.cart.totalQty})
+
+
+
+
+
+
+          //ordercontroller.js
+
+          const Order = require('../../../models/order')
+function orderController () {
+    return{
+        store (req,res) {
+           //validate request
+           const{ phone,address } = req.body
+           if(!phone || !address){
+                req.flash('error','All fields are required')
+                return res.redirect('/cart')
+           }
+
+           const order = new Order ({
+               
+               items: req.session.cart.items,
+                phone,
+                address
+           })
+           order.save().then(result => {
+                 req.flash ('success','Order placed successfully')
+                 return res.redirect('/')
+           }).catch(err => {
+               req.flash ('error', 'Something Went Wrong')
+               return res.redirect('/cart')
+           })
+        }
+
+    }
+}
+
+module.exports = orderController
+
+//dont know if i need later
+
+app.use(bodyParser.urlencoded({ extended: true}))
+
+//order.js
+
+const mongoose = require ('mongoose')
+const Schema = mongoose.Schema
+
+const orderSchema = new Schema({
+   
+    items:{type: Object, required : true},
+    phone: {type: String, required:true},
+    address: {type: String, required: true},
+    paymentType: {type: String, default:'COD'},
+    status : {type : String, default: 'order_placed'},
+
+},{timestamps: true })
+
+module.exports = mongoose.model('Order', orderSchema)
+
+<div class="carousel-item active">
+            <img src="img/meat02.jpg" class="d-block w-100" alt="rare beef stick">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Same day delivery</h5>
+              <p>We offer same-day delivery, order by 6pm for pickup or delivery Tuesday-Sunday. We deliver in a 20-mile radius from our shop. Orders over $100 within a 10-mile radius will receive free delivery. Orders that exceed the 10-mile radius will be charged a flat fee of $9.99.</p>
+            </div>
+          </div>
